@@ -1,0 +1,7 @@
+tensorflow
+numpy
+chess
+python-chess
+pillow
+cairosvg
+tqdm
